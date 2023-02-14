@@ -3,7 +3,7 @@ import math
 import random 
 import time
 import sys
-
+#comment 
 WIDTH = 642
 HIGHT = 640
 PIXELS = 40
