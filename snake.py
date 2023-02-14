@@ -4,7 +4,7 @@ import random
 import time
 import sys
 #comment 
-WIDTH = 642
+WIDTH = 640
 HIGHT = 640
 PIXELS = 40
 SQUARES = int(WIDTH/PIXELS)
